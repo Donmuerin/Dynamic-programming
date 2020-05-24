@@ -1,2 +1,2 @@
-# Dynamic-programming
-FIT2004 testing
+# more-algorithms
+Exploring...
