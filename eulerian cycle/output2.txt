@@ -1,0 +1,16 @@
+subset 1: {' '}
+subset 2: {'a'}
+subset 3: {'a', 'b'}
+subset 4: {'b'}
+subset 5: {'c', 'b'}
+subset 6: {'c', 'a', 'b'}
+subset 7: {'c', 'a'}
+subset 8: {'c'}
+subset 9: {'c', 'd'}
+subset 10: {'c', 'a', 'd'}
+subset 11: {'c', 'a', 'd', 'b'}
+subset 12: {'c', 'd', 'b'}
+subset 13: {'d', 'b'}
+subset 14: {'a', 'd', 'b'}
+subset 15: {'a', 'd'}
+subset 16: {'d'}
